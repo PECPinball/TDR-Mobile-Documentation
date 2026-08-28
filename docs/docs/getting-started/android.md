@@ -17,10 +17,40 @@ the project for Android.
   allowfullscreen>
 </iframe>
 
-## Steps
+## Installation
 
-1. Open Unity Hub.
-2. Select your Unity version.
-3. Install the Android platform.
-4. Open the TDR Mobile project.
-5. Switch the project to Android.
+<div class="step">
+
+<div class="step-text">
+
+### 1. Open Unity Hub
+
+Open Unity Hub and select the Unity version used by the project.
+
+</div>
+
+<div class="step-image">
+
+![Unity Hub](../images/unity-hub.png)
+
+</div>
+
+</div>
+
+<div class="step">
+
+<div class="step-text">
+
+### 2. Install the Android platform
+
+Open the Unity installation settings and install the Android Build Support module.
+
+</div>
+
+<div class="step-image">
+
+![Android Build Support](../images/android-build-support.png)
+
+</div>
+
+</div>
