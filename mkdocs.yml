@@ -2,3 +2,6 @@ site_name: TDR Mobile Documentation
 
 theme:
   name: material
+
+extra_css:
+  - stylesheets/extra.css
