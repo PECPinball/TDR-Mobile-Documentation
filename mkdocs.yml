@@ -1,0 +1,12 @@
+site_name: TDR Mobile Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - Android Setup: getting-started/android.md
+  - Systems:
+      - Monetization: systems/monetization.md
