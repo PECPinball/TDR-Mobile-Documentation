@@ -2,12 +2,20 @@
 
 Android is not selected by default when creating a Unity project.
 
-Before continuing, make sure that the Android platform is installed
-for your Unity version.
+This video explains how to install the Android platform and configure
+the project for Android.
 
 ## Video
 
-The video below explains how to install and activate the Android platform.
+<iframe
+  width="100%"
+  height="500"
+  src="https://www.youtube.com/embed/NBxqBcqznRo"
+  title="Android Setup"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ## Steps
 
