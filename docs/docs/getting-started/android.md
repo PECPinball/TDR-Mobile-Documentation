@@ -41,15 +41,38 @@ Open Unity Hub and select the Unity version used by the project.
 
 <div class="step-text">
 
-### 2. Install the Android platform
+<h3>1. Open Unity Hub</h3>
 
-Open the Unity installation settings and install the Android Build Support module.
+<p>
+Open Unity Hub and select the Unity version used by the project.
+</p>
 
 </div>
 
 <div class="step-image">
 
-![Android Build Support](../images/android-build-support.png)
+<img src="../images/unity-hub.png" alt="Unity Hub">
+
+</div>
+
+</div>
+
+
+<div class="step">
+
+<div class="step-text">
+
+<h3>2. Install the Android platform</h3>
+
+<p>
+Open the Unity installation settings and install the Android Build Support module.
+</p>
+
+</div>
+
+<div class="step-image">
+
+<img src="../images/android-build-support.png" alt="Android Build Support">
 
 </div>
 
