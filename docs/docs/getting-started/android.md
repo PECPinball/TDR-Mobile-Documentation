@@ -31,7 +31,7 @@ Open Unity Hub and select the Unity version used by the project.
 
 <div class="step-image">
 
-<img src="../../images/unity-hub.png" alt="Unity Hub">
+<img src="../images/unity-hub.png" alt="Unity Hub">
 
 </div>
 
@@ -52,7 +52,7 @@ Open the Unity installation settings and install the Android Build Support modul
 
 <div class="step-image">
 
-<img src="../../images/android-build-support.png" alt="Android Build Support">
+<img src="../images/android-build-support.png" alt="Android Build Support">
 
 </div>
 
