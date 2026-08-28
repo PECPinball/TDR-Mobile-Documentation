@@ -17,26 +17,6 @@ the project for Android.
   allowfullscreen>
 </iframe>
 
-## Installation
-
-<div class="step">
-
-<div class="step-text">
-
-### 1. Open Unity Hub
-
-Open Unity Hub and select the Unity version used by the project.
-
-</div>
-
-<div class="step-image">
-
-![Unity Hub](../images/unity-hub.png)
-
-</div>
-
-</div>
-
 <div class="step">
 
 <div class="step-text">
